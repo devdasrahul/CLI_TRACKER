@@ -1,0 +1,272 @@
+{
+  "settings": {
+    "theme": "cyberdark",
+    "user": "user"
+  },
+  "learning": [
+    {
+      "id": "LEA20250105140001",
+      "created_at": "2025-01-05T14:00:00",
+      "subject": "Python",
+      "topic": "Object-Oriented Programming",
+      "hours": 3.5,
+      "status": "completed"
+    },
+    {
+      "id": "LEA20250105140002",
+      "created_at": "2025-01-04T10:00:00",
+      "subject": "Data Structures",
+      "topic": "Binary Trees",
+      "hours": 2.0,
+      "status": "ongoing"
+    },
+    {
+      "id": "LEA20250105140003",
+      "created_at": "2025-01-03T15:00:00",
+      "subject": "Python",
+      "topic": "File Handling",
+      "hours": 1.5,
+      "status": "completed"
+    }
+  ],
+  "project": [
+    {
+      "id": "PRO20250105140001",
+      "created_at": "2025-01-05T14:00:00",
+      "name": "Personal Tracker CLI",
+      "type": "Python Application",
+      "progress": 85,
+      "deadline": "2025-01-10",
+      "status": "In Progress"
+    },
+    {
+      "id": "PRO20250105140002",
+      "created_at": "2025-01-02T09:00:00",
+      "name": "Portfolio Website",
+      "type": "Web Development",
+      "progress": 60,
+      "deadline": "2025-01-15",
+      "status": "In Progress"
+    }
+  ],
+  "habit": [
+    {
+      "id": "HAB20250105140001",
+      "created_at": "2025-01-05T06:00:00",
+      "habit": "Morning Exercise",
+      "date": "2025-01-05",
+      "completed": true,
+      "notes": "30 min cardio"
+    },
+    {
+      "id": "HAB20250105140002",
+      "created_at": "2025-01-05T22:00:00",
+      "habit": "Reading",
+      "date": "2025-01-05",
+      "completed": true,
+      "notes": "Read 20 pages"
+    },
+    {
+      "id": "HAB20250105140003",
+      "created_at": "2025-01-04T06:00:00",
+      "habit": "Morning Exercise",
+      "date": "2025-01-04",
+      "completed": true,
+      "notes": "Yoga session"
+    }
+  ],
+  "expense": [
+    {
+      "id": "EXP20250105140001",
+      "created_at": "2025-01-05T12:30:00",
+      "description": "Lunch at cafe",
+      "amount": 250,
+      "category": "Food",
+      "date": "2025-01-05"
+    },
+    {
+      "id": "EXP20250105140002",
+      "created_at": "2025-01-05T18:00:00",
+      "description": "Movie tickets",
+      "amount": 400,
+      "category": "Entertainment",
+      "date": "2025-01-05"
+    },
+    {
+      "id": "EXP20250105140003",
+      "created_at": "2025-01-04T08:00:00",
+      "description": "Uber to college",
+      "amount": 150,
+      "category": "Transport",
+      "date": "2025-01-04"
+    },
+    {
+      "id": "EXP20250105140004",
+      "created_at": "2025-01-03T13:00:00",
+      "description": "Grocery shopping",
+      "amount": 1200,
+      "category": "Food",
+      "date": "2025-01-03"
+    },
+    {
+      "id": "EXP20251009235445004",
+      "created_at": "2025-10-09T23:54:45.979857",
+      "description": "Lunch",
+      "amount": 250.0,
+      "category": "Food",
+      "date": "2025-10-09"
+    }
+  ],
+  "mood": [
+    {
+      "id": "MOO20250105140001",
+      "created_at": "2025-01-05T21:00:00",
+      "date": "2025-01-05",
+      "mood": "Happy",
+      "notes": "Productive day, completed project milestone"
+    },
+    {
+      "id": "MOO20250105140002",
+      "created_at": "2025-01-04T20:00:00",
+      "date": "2025-01-04",
+      "mood": "Happy",
+      "notes": "Good workout session"
+    },
+    {
+      "id": "MOO20250105140003",
+      "created_at": "2025-01-03T22:00:00",
+      "date": "2025-01-03",
+      "mood": "Neutral",
+      "notes": "Regular day"
+    }
+  ],
+  "fitness": [
+    {
+      "id": "FIT20250105140001",
+      "created_at": "2025-01-05T06:30:00",
+      "activity": "Running",
+      "duration": 30,
+      "calories": 300,
+      "date": "2025-01-05"
+    },
+    {
+      "id": "FIT20250105140002",
+      "created_at": "2025-01-04T06:30:00",
+      "activity": "Yoga",
+      "duration": 45,
+      "calories": 150,
+      "date": "2025-01-04"
+    }
+  ],
+  "goal": [
+    {
+      "id": "GOA20250105140001",
+      "created_at": "2025-01-01T00:00:00",
+      "goal": "Complete Python project",
+      "deadline": "2025-01-10",
+      "progress": 85,
+      "category": "Study"
+    },
+    {
+      "id": "GOA20250105140002",
+      "created_at": "2025-01-01T00:00:00",
+      "goal": "Exercise 5 days a week",
+      "deadline": "2025-01-31",
+      "progress": 60,
+      "category": "Health"
+    },
+    {
+      "id": "GOA20250105140003",
+      "created_at": "2025-01-01T00:00:00",
+      "goal": "Read 5 books",
+      "deadline": "2025-03-31",
+      "progress": 20,
+      "category": "Personal"
+    }
+  ],
+  "task": [
+    {
+      "id": "TAS20250105140001",
+      "created_at": "2025-01-05T09:00:00",
+      "task": "Complete README documentation",
+      "priority": "High",
+      "status": "Completed",
+      "deadline": "2025-01-05",
+      "notes": "Finished comprehensive docs"
+    },
+    {
+      "id": "TAS20250105140002",
+      "created_at": "2025-01-05T10:00:00",
+      "task": "Test all tracker features",
+      "priority": "High",
+      "status": "In Progress",
+      "deadline": "2025-01-06",
+      "notes": "Testing analytics functions"
+    },
+    {
+      "id": "TAS20250105140003",
+      "created_at": "2025-01-05T11:00:00",
+      "task": "Prepare demo presentation",
+      "priority": "Medium",
+      "status": "Pending",
+      "deadline": "2025-01-08",
+      "notes": "Need to practice 2-min demo"
+    }
+  ],
+  "time": [
+    {
+      "id": "TIM20250105140001",
+      "created_at": "2025-01-05T14:00:00",
+      "task": "Coding Personal Tracker",
+      "duration": 4.5,
+      "category": "Development",
+      "focus": 5
+    },
+    {
+      "id": "TIM20250105140002",
+      "created_at": "2025-01-04T15:00:00",
+      "task": "Studying Data Structures",
+      "duration": 2.0,
+      "category": "Learning",
+      "focus": 4
+    }
+  ],
+  "journal": [
+    {
+      "id": "JOU20250105140001",
+      "created_at": "2025-01-05T22:00:00",
+      "date": "2025-01-05",
+      "title": "Great Progress Today",
+      "reflection": "Made significant progress on the Personal Tracker CLI project. Implemented all 21 trackers and analytics features. Feeling accomplished and excited to demo this!"
+    }
+  ],
+  "gratitude": [
+    {
+      "id": "GRA20250105140001",
+      "created_at": "2025-01-05T21:30:00",
+      "date": "2025-01-05",
+      "entry": "Grateful for the opportunity to build this project and learn so much",
+      "mood": "Happy"
+    }
+  ],
+  "bug": [
+    {
+      "id": "BUG20250105140001",
+      "created_at": "2025-01-05T16:00:00",
+      "bug": "Date validation not working for future dates",
+      "project": "Personal Tracker",
+      "status": "Fixed",
+      "severity": "Medium",
+      "fix_date": "2025-01-05"
+    }
+  ],
+  "reading": [],
+  "diet": [],
+  "sleep": [],
+  "event": [],
+  "income": [],
+  "savings": [],
+  "shopping": [],
+  "snippet": [],
+  "interview": []
+}
